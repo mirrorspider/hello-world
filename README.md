@@ -5,5 +5,4 @@ Introductory repository
 * Check back in
 * New record
 ## Bugs
-* Can we add in data this way?
-* How about like this?
+* Changes made
