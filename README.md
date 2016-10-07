@@ -4,5 +4,6 @@ Introductory repository
 * Checkout
 * Check back in
 * New record
+
 ## Bugs
 * Changes made
